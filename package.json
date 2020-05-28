@@ -1,0 +1,29 @@
+{
+  "name": "puppeteer-web-scrapping",
+  "version": "1.0.0",
+  "description": "A repository with examples of using Puppeteer in Node JS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmourabraga/node-puppeteer-web-scrapping.git"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Web",
+    "Scrapping",
+    "Node",
+    "Javascript"
+  ],
+  "author": "Luã Braga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmourabraga/node-puppeteer-web-scrapping/issues"
+  },
+  "homepage": "https://github.com/lmourabraga/node-puppeteer-web-scrapping#readme",
+  "dependencies": {
+    "puppeteer": "^3.1.0"
+  }
+}
